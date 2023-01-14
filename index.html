@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles/main_style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PaintBoard</title>
+  </head>
+  <body> 
+    <div class="paintboard">
+      <div class="paintboard__tools">
+        <p class="tools__title  title">TOOLS</p>
+        <button class="tools__button--pencil buttons__tools"></button>
+        <button class="tools__button--eraser buttons__tools">                  </button>
+        <button class="tools__button--eraserselection buttons__tools"></button>
+        <button class="tools__button--square buttons__tools"></button>
+        <button class="tools__button--circle buttons__tools"></button>
+        <button class="tools__button--ellipse buttons__tools"></button>
+        <button class="tools__button--triangle buttons__tools"></button>
+        <button class="tools__button--roundrectangle buttons__tools"></button>
+        <button class="tools__button--line buttons__tools"></button>
+        <p class="colors__title title">COLORS</p>
+        <button class="settings__button--fill buttons__settings">
+          <div class="settings__fillcolor"></div>
+        </button>
+        <input class="settings__fillnull" type="checkbox">
+        <button class="settings__button--line buttons__settings">
+          <div class="settings__linecolor"></div>
+        </button>
+        <input class="settings__linenull" type="checkbox">
+        <div class="container__colors_buttons">               
+          <button class="colors__button--white buttons__colors"></button>
+          <button class="colors__button--black buttons__colors"></button>
+          <button class="colors__button--gray buttons__colors"></button>
+          <button class="colors__button--red buttons__colors"></button>
+          <button class="colors__button--green buttons__colors"></button>
+          <button class="colors__button--blue buttons__colors"></button>
+          <button class="colors__button--yellow buttons__colors"></button>
+          <button class="colors__button--pink buttons__colors"></button>
+          <button class="colors__button--orange buttons__colors"></button>
+          <input class="button__colorpicker" type="color" value="#111111">
+        </div>
+        <p class="settings__title title">SETTINGS</p>
+        <div class="eraser__linewidth rangecontainer">
+          <p>Eraser Size</p>
+          <input type="range" value="10" min="5" max="100" step="5">
+          <p>10</p>
+        </div>
+        <div class="settings__linewidth rangecontainer">
+          <p>Line Width</p>
+          <input type="range" value="1" min="1" max="20" step="1">
+          <p>1</p>
+        </div>
+        <p class="edits__title title">EDIT</p>
+      </div>
+      <div class="paintboard__canvas">
+        <div class="paintboard__rule_x"><span id="rule_x__cursor"></span></div>
+        <div class="paintboard__rule_y"><span id="rule_y__cursor"></span></div>
+        <div class="container__canvas">
+          <canvas class="canvas" width="1600" height="700"></canvas>
+        </div>
+      </div>
+    </div>
+    <script src="./scripts/script.js"> </script>
+  </body>
+</html>
