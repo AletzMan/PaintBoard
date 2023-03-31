@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.Sombra_x0020_paralela{fill:none;}
+	.Neón_x0020_azul_x0020_grueso{fill:none;stroke:#0073BC;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.Agua_x0020_iluminada{fill:url(#SVGID_1_);stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:1;}
+	.Resalte_x0020_en_x0020_negro_x0020_{fill:url(#SVGID_2_);stroke:#FFFFFF;stroke-width:0.3629;stroke-miterlimit:1;}
+	.Coco_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#FFDD00;}
+	.st0{opacity:0.25;fill:#0ACC3D;}
+	.st1{fill:none;stroke:#00AD14;stroke-miterlimit:10;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6.123234e-17" y2="-1">
+	<stop  offset="0" style="stop-color:#1D59F4"/>
+	<stop  offset="0.618" style="stop-color:#2D65EE"/>
+	<stop  offset="0.6292" style="stop-color:#3864F3"/>
+	<stop  offset="0.9831" style="stop-color:#00DDFC"/>
+</linearGradient>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6.123234e-17" y2="-1">
+	<stop  offset="0" style="stop-color:#060606"/>
+	<stop  offset="0.618" style="stop-color:#000000"/>
+	<stop  offset="0.6292" style="stop-color:#000000"/>
+	<stop  offset="0.9831" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="4.5" y="4.5" class="st0" width="91" height="91"/>
+<rect x="4.5" y="4.5" class="st1" width="91" height="91"/>
+</svg>
