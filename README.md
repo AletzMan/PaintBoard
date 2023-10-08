@@ -15,7 +15,7 @@ _(Puedes agregar aquí capturas de pantalla de tu aplicación si lo deseas)_
 
 ## Demo
 
-Si deseas ver Paint Board en acción, puedes acceder a la demo en línea [aquí](enlace-a-tu-demo.com).
+Si deseas ver Paint Board en acción, puedes acceder a la demo en línea [aquí](https://aletzman.github.io/PaintBoard/).
 
 ## Instalación
 
