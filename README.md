@@ -33,23 +33,23 @@ Si deseas ver Paint Board en acción, puedes acceder a la demo en línea [aquí]
 
 ## Uso
 
-Selecciona una herramienta de dibujo y un color de la paleta.
-Comienza a dibujar en el lienzo.
-Usa las capas para organizar tu trabajo.
-Guarda y exporta tus creaciones cuando estés satisfecho con tu obra maestra.
-Tecnologías Utilizadas
+- Selecciona una herramienta de dibujo y un color de la paleta.
+- Comienza a dibujar en el lienzo.
+
+## Tecnologías Utilizadas
 - **JavaScript:** Para la lógica y la interacción del usuario.
 - **HTML:** Para la estructura de la página web.
 - **CSS:** Para el diseño y la presentación.
 - **API Canvas de JavaScript:** Para crear y manipular gráficos en el lienzo.
-- 
+
 ## Contribuir
 Si deseas contribuir a este proyecto, ¡estamos encantados de recibir tus contribuciones! Por favor, sigue estos pasos:
 
-Haz un fork del repositorio.
+## Haz un fork del repositorio.
 Crea una rama con tu nueva característica: git checkout -b mi-nueva-caracteristica.
 Realiza tus cambios y haz commit: git commit -m 'Agrega una nueva característica'.
 Sube los cambios a tu fork: git push origin mi-nueva-caracteristica.
 Abre una solicitud de extracción en el repositorio original.
-Licencia
+
+## Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
