@@ -36,7 +36,9 @@ Si deseas ver Paint Board en acción, puedes acceder a la demo en línea [aquí]
 - Selecciona una herramienta de dibujo y un color de la paleta.
 - Comienza a dibujar en el lienzo.
 
+
 ## Tecnologías Utilizadas
+
 - **JavaScript:** Para la lógica y la interacción del usuario.
 - **HTML:** Para la estructura de la página web.
 - **CSS:** Para el diseño y la presentación.
