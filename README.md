@@ -32,7 +32,8 @@ Si deseas ver Paint Board en acción, puedes acceder a la demo en línea [aquí]
 
 2. Abre el archivo index.html en tu navegador web para comenzar a usar Paint Board.
 
-#Uso
+## Uso
+
 Selecciona una herramienta de dibujo y un color de la paleta.
 Comienza a dibujar en el lienzo.
 Usa las capas para organizar tu trabajo.
