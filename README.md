@@ -38,10 +38,10 @@ Comienza a dibujar en el lienzo.
 Usa las capas para organizar tu trabajo.
 Guarda y exporta tus creaciones cuando estés satisfecho con tu obra maestra.
 Tecnologías Utilizadas
-- ** JavaScript:** Para la lógica y la interacción del usuario.
-- **HTML: ** Para la estructura de la página web.
-- **CSS: ** Para el diseño y la presentación.
-- **API Canvas de JavaScript: ** Para crear y manipular gráficos en el lienzo.
+- **JavaScript:** Para la lógica y la interacción del usuario.
+- **HTML:** Para la estructura de la página web.
+- **CSS:** Para el diseño y la presentación.
+- **API Canvas de JavaScript:** Para crear y manipular gráficos en el lienzo.
 - 
 ## Contribuir
 Si deseas contribuir a este proyecto, ¡estamos encantados de recibir tus contribuciones! Por favor, sigue estos pasos:
