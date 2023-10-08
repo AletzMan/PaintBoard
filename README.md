@@ -8,7 +8,6 @@ Bienvenido a Paint Board, una aplicación web de dibujo basada en JavaScript, HT
 - **Herramientas de Dibujo:** Usa una variedad de herramientas, como lápices, pinceles y borradores, para dibujar y retocar tus creaciones.
 - **Paleta de Colores:** Explora una paleta de colores completa para elegir tus tonos favoritos y personalizar tu arte.
 - **Figuras:** Diferentes formas geomatricas que podras dibujar.
-- 
 
 ## Capturas de Pantalla
 
@@ -39,11 +38,12 @@ Comienza a dibujar en el lienzo.
 Usa las capas para organizar tu trabajo.
 Guarda y exporta tus creaciones cuando estés satisfecho con tu obra maestra.
 Tecnologías Utilizadas
-JavaScript: Para la lógica y la interacción del usuario.
-HTML: Para la estructura de la página web.
-CSS: Para el diseño y la presentación.
-API Canvas de JavaScript: Para crear y manipular gráficos en el lienzo.
-Contribuir
+- ** JavaScript:** Para la lógica y la interacción del usuario.
+- **HTML: ** Para la estructura de la página web.
+- **CSS: ** Para el diseño y la presentación.
+- **API Canvas de JavaScript: ** Para crear y manipular gráficos en el lienzo.
+- 
+## Contribuir
 Si deseas contribuir a este proyecto, ¡estamos encantados de recibir tus contribuciones! Por favor, sigue estos pasos:
 
 Haz un fork del repositorio.
